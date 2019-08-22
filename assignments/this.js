@@ -2,9 +2,9 @@
 * in your own words. explain the four principle for the "this" keyword below.
 *
 * 1. Global : when you are in the global scope, 'this' is set to the window
-* 2. Implicit : when an object is called, this will refer to whatever is left of the dot
+* 2. Implicit : when an object is called, this will refer to whatever is left of the dot. 
 * 3. New : when using a constructor function, this refers to the 
-* 4. Explicit : (bind, call} this will get defined immediately after
+* 4. Explicit : (apply, call} this will get defined immediately after. apply takes an array
 *
 * write out a code example of each explanation above
 */
